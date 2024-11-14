@@ -24,6 +24,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black) 
 
 ![OpenAI](https://img.shields.io/badge/openai-black?style=for-the-badge&logo=openai)
+![Ollama](https://img.shields.io/badge/ollama-black?style=for-the-badge&logo=ollama)
 ![LangChain](https://img.shields.io/badge/langchain-red?style=for-the-badge&logo=langchain)
 ![LangGraph](https://img.shields.io/badge/langgraph-orange?style=for-the-badge&logo=langgraph)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
