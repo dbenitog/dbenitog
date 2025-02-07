@@ -1,6 +1,6 @@
 ## About Me
 * 🙋🏻‍♂️ Diego ・ 29 ・ Madrid, Spain ・ he/him
-* 🎓 PhD on Computer Science and Telecommunications
+* 🎓 PhD in Computer Science and Telecommunications
 * ✨ Currently working as AI Specialist at [EVO Banco](https://github.com/evobanco/)
 * 💭 Interested in Deep Learning, Generative AI, Natural Language Processing, Audio/Music Processing
 
